@@ -4,7 +4,7 @@ I'm a Full Stack Developer with a passion for building web applications. I enjoy
 ### 💻 What I Do:
 - Backend: PHP, Laravel, MySQL, Redis
 
-- Frontend: HTML, CSS, JavaScript, React, Vue.js
+- Frontend: HTML, CSS, JavaScript, Vue.js
 
 - Database: SQL, MySQL
 
