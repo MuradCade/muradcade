@@ -1,12 +1,9 @@
 # 👋 Assalamu Alaikum, I'm Yahye Asad Mousa
-Full Stack Developer | Laravel & Vue.js | Focused on Secure and Scalable Web Solutions <br>
+Full Stack Developer | Laravel & Vue.js | Focused on Secure and Scalable Web Solutions. <br>
 I'm a full stack developer with a passion for building modern, reliable, and secure web applications. I work across the entire tech stack — from backend systems to interactive frontends — and I’m always learning and growing through real-world projects.
 
 ### Tech Stack
-- Backend: PHP, Laravel, Redis
-- Frontend: HTML, CSS, JavaScript, Vue.js
-- Database: SQL, MySQL
-- DevOps: Git, Docker, CI/CD
+I specialize in building full stack applications using Laravel and PHP on the backend, complemented by Vue.js, HTML, CSS, and JavaScript on the frontend. For data storage, I work primarily with MySQL and relational database design, and I use Redis for efficient caching and session handling. I’m also familiar with non-relational databases such as MongoDB, which I’ve used in projects requiring flexible document structures. My development workflow includes Git for version control, Docker for containerization, and CI/CD pipelines for automated deployments and testing.
 
 ### 📚 Currently Learning:
 - AI & Machine Learning: Bringing intelligence into applications
