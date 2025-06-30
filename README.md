@@ -1,31 +1,26 @@
-# 👋 Hey, I'm Yahye Asad Mousa
-I'm a Full Stack Developer with a passion for building web applications. I enjoy working on both the backend and frontend, and I’m constantly learning to improve my skills.
+# 👋 Assalamu Alaikum, I'm Yahye Asad Mousa
+Full Stack Developer | Laravel & Vue.js | Focused on Secure and Scalable Web Solutions
+I'm a full stack developer with a passion for building modern, reliable, and secure web applications. I work across the entire tech stack — from backend systems to interactive frontends — and I’m always learning and growing through real-world projects.
 
-### 💻 What I Do:
+### Tech Stack
 - Backend: PHP, Laravel, Redis
-
 - Frontend: HTML, CSS, JavaScript, Vue.js
-
 - Database: SQL, MySQL
-
 - DevOps: Git, Docker, CI/CD
 
 ### 📚 Currently Learning:
-- AI & Machine Learning: Integrating AI tools into projects
-
-- Security: Best practices for secure web development
+- AI & Machine Learning: Bringing intelligence into applications
+- Web Security: Writing safe, secure, and resilient code
+- Cloud & Distributed Systems: Scaling apps beyond a single server
 
 ### 🛠️ My Projects:
-- TeachLab: A SaaS platform for managing student data such as attendance, assignments, quizzes, and exams (Laravel, Livewire)
-
-- Event API: A RESTful API for event management and ticketing
-
-- Screen Recording Desktop & Web: A tool for recording screen and audio on both desktop and web platforms (Laravel, Native PHP)
+- TeachLab: A SaaS platform to manage student records (Laravel, Livewire)
+- Event API: RESTful API for event and ticket management (Laravel, MySQL)
+- Screen Recorder: A tool for recording screen and audio (Native PHP, Laravel)
 
 ### 🌱 What's Next:
-- Diving into cloud development and distributed systems
-
-- Contributing to open-source projects
+- Deepening my skills in cloud-based development (AWS, Docker, Kubernetes)
+- Contributing to meaningful open-source projects — especially in education and healthcare
 
 ### 📬 Let's Connect:
 - Likendin:[Linkend Profile](https://www.linkedin.com/in/yahye-asad-mousa-2a29931a8?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) 
